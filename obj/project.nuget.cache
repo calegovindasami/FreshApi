@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1WmbM2+YrAg3kMbW+lY/WH+zlBOQe/XCLkvNsejVdmpt++8/yWmSr9HhSzMND93WhBWg21KQlMkhcz4GiYd7hg==",
+  "dgSpecHash": "luUrtJaUm5gWnTtCf2YOUGQVz5lg9JTwvzchYSF+RO8Lq1jwvuKrq/UHNcc8a2rcqErtHt1N5IPtktSZcfx/Hw==",
   "success": true,
   "projectFilePath": "C:\\Users\\caleg\\VS Projects\\FreshAPI\\FreshAPI.csproj",
   "expectedPackageFiles": [
@@ -72,7 +72,7 @@
     "C:\\Users\\caleg\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\caleg\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\caleg\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\caleg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\caleg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\caleg\\.nuget\\packages\\nuget.common\\5.11.0\\nuget.common.5.11.0.nupkg.sha512",
     "C:\\Users\\caleg\\.nuget\\packages\\nuget.configuration\\5.11.0\\nuget.configuration.5.11.0.nupkg.sha512",
     "C:\\Users\\caleg\\.nuget\\packages\\nuget.dependencyresolver.core\\5.11.0\\nuget.dependencyresolver.core.5.11.0.nupkg.sha512",
